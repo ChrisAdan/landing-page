@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Style */
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.hero-image {
+  background-color: grey;
+  color: white;
+}
+
+.card-image {
+  border: 2px solid blue;
+  border-radius: 12px;
+}
+
+/* Structure */
